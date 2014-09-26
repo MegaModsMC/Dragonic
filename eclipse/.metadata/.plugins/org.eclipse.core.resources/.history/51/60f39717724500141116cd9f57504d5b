@@ -1,0 +1,11 @@
+package com.MegaMC.dragonic.init;
+
+import com.MegaMC.dragonic.reference.Reference;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+@GameRegistry.ObjectHolder(Reference.MOD_ID)
+public class ModTileEntity 
+{
+	public static
+}

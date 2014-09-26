@@ -1,0 +1,46 @@
+package com.MegaMC.dragonic.item;
+
+import java.util.List;
+
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.ItemStack;
+import net.minecraft.world.World;
+
+import com.MegaMC.dragonic.reference.Names;
+import com.MegaMC.dragonic.utility.LogHelper;
+
+public class revengeTalisman extends DragonicItem 
+{
+	boolean isActive = false;
+	
+	public revengeTalisman()
+	{
+		super();
+		this.setUnlocalizedName(Names.Items.REVENGE_TALISMAN);
+	}
+	
+	@Override
+	public void addInformation(ItemStack stack, EntityPlayer player, List list, boolean par4)
+	{
+		if(isActive)
+		{
+			list.add("Active");
+		}
+		
+		if(!isActive)
+		{
+			list.add("Inactive");
+		}
+	}
+	
+	@Override
+	public ItemStack onItemRightClick(ItemStack par1ItemStack, World par2World, EntityPlayer par3EntityPlayer)
+	{
+		this.isActive = !isActive;
+		LogHelper.info(isActive);
+		return par1ItemStack;
+	}
+	
+	
+}
+

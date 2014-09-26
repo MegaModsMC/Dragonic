@@ -1,0 +1,17 @@
+package com.MegaMC.dragonic.item;
+
+import com.MegaMC.dragonic.reference.Names;
+
+public class revengeTalisman extends DragonicItem 
+{
+	public revengeTalisman()
+	{
+		
+		super();
+		this.setUnlocalizedName(Names.Items.REVENGE_TALISMAN);
+		if(isActive)
+		{
+			
+		}
+	}
+}

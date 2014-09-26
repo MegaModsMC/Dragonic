@@ -1,0 +1,5 @@
+package com.MegaMC.dragonic.init;
+
+public class ModTileEntity {
+
+}

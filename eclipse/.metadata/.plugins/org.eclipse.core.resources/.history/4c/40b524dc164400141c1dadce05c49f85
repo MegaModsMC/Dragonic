@@ -1,0 +1,14 @@
+# Keys
+keys.dragonic.category=Dragonic
+keys.dragonic.charge=Charge
+keys.dragonic.release=Release
+
+# Creative Tabs
+itemGroup.dragonic=Dragonic Items
+
+# Items
+item.dragonic:testScale.name=Quint's Test Scale of Awesomeness
+item.dragonic:thorHammer.name=Thor Hammer Of Death
+
+#Blocks
+tile.dragonic:testBlock.name=Quint's Test Block of Awesomeness

@@ -1,0 +1,13 @@
+package com.MegaMC.dragonic.block;
+
+import com.MegaMC.dragonic.reference.Names;
+
+public class WillBlock42 extends DragonicBlock {
+ 
+	public WillBlock()
+	{
+		super();
+		this.setBlockName(Names.Blocks.Will_Block);
+        this.setBlockTextureName(Names.Blocks.Will_Block);
+	}
+}

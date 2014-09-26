@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.EventHandler"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLInitializationEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Instance"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.Megalo.Dragonic.configuration.ConfigHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="com.Megalo.Dragonic.creativeTabs.CreativeTabsManager"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="com.Megalo.Dragonic.Items.ItemManager"/>
+<fullyQualifiedTypeName name="com.Megalo.Dragonic.reference.Names"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="com.Megalo.Dragonic.Items.DragonicItems"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="Init.ItemInit"/>
+<fullyQualifiedTypeName name="com.Megalo.Dragonic.reference.Reference"/>
+<fullyQualifiedTypeName name="com.MegaMC.dragonic.block.TestBlock"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.living.LivingDeathEvent"/>
+<fullyQualifiedTypeName name="ibxm.Player"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.living.LivingHurtEvent"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="com.MegaMC.dragonic.client.handler.DamageSourcer"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="net.minecraft.world.World"/>
+<fullyQualifiedTypeName name="com.MegaMC.dragonic.creativetab.CreativeTab"/>
+<fullyQualifiedTypeName name="multiblock.api.DimensionalPattern.Row"/>
+<fullyQualifiedTypeName name="multiblock.api.DimensionalPattern.Layer"/>
+<fullyQualifiedTypeName name="multiblock.api.DimensionalPattern.BlockState"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
+<fullyQualifiedTypeName name="com.MegaMC.dragonic.init.ModBlocks"/>
+<fullyQualifiedTypeName name="multiblock.api.DimensionalPattern"/>
+<fullyQualifiedTypeName name="com.MegaMC.dragonic.utility.LogHelper"/>
+<fullyQualifiedTypeName name="net.minecraft.tileentity.TileEntity"/>
+<fullyQualifiedTypeName name="com.MegaMC.dragonic.reference.Names"/>
+<fullyQualifiedTypeName name="com.MegaMC.dragonic.reference.Names.Tile"/>
+</qualifiedTypeNameHistroy>
